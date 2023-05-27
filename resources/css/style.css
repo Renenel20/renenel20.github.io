@@ -6,19 +6,19 @@
   color: blue;
 }
 
-.h2{color: blue;}
-.h3{color: blue;}
-.p{color: blue;}
+h2{color: blue;}
+h3{color: blue;}
+p{color: blue;}
 
-.a{
+a{
 color:blue;
 }
 
-.body{
+body{
 background-color:black;
 }
 
-.footer{
+footer{
 color:blue;
 }
 
